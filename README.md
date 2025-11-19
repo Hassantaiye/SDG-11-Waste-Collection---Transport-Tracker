@@ -3,8 +3,8 @@
 
 | Platform | Status | Link |
 |----------|--------|------|
-| **Vercel** | ✅ Live | [Visit Site](https://sdg-11-waste-collection-transport-tracker-fpj4ga8we.vercel.app/) |
-| **Render** | ✅ Live | [Visit Site](https://waste-tracker-and-collection-api.onrender.com/) |
+| **Vercel** | ✅ Live | [Visit Site](https://sdg-11-waste-collection-transport-t.vercel.app/) |
+| **Render** | ✅ Live | [Visit Site](https://waste-collection-transport-tracker.onrender.com/) |
 
 SDG-11 Waste Collection & Transport Tracker
 A comprehensive waste management system built with the MERN stack (MongoDB, Express, React, Node.js) that enables efficient tracking and management of waste collection operations across communities.
